@@ -1,0 +1,95 @@
+.Hero5 {
+  height: 600px;
+  background: #f7f9fc;
+}
+.hero5-p1 {
+  color: #211f54;
+  font-family: Roboto;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 57.984px; /* 120.8% */
+}
+.hero5-p2 {
+  color: #6e7191;
+  font-family: Roboto;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.006px;
+  max-width: 430px;
+}
+#kkk {
+  margin: 0px 0px 0px -10px;
+}
+.hero5-p3 {
+  color: #211f54;
+  font-family: Roboto;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36.008px;
+  margin: 50px 0px 0px 0px;
+}
+.hero5-p4 {
+  color: #6e7191;
+  margin: 20px 0px 0px 0px;
+  font-family: Roboto;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.006px;
+  max-width: 430px;
+}
+.hero5-btn1 {
+  border-radius: 14px;
+  border: 1px solid #eff0f6;
+  background: #fff;
+  box-shadow: 0px 4px 10px 0px rgba(20, 20, 43, 0.04);
+  width: 170px;
+  height: 48px;
+  margin: 0px 0px 0px -5px;
+}
+.hero5-right1 {
+  width: 550px;
+  height: 448px;
+  background-color: #fff;
+  margin: 30px 0px 0px 110px;
+}
+.hero5-obj1 {
+  display: flex;
+}
+.hero5-inputs {
+  margin: 50px 0px 0px 50px;
+  display: flex;
+  gap: 40px;
+}
+.hero5-input1 {
+  border-radius: 16px;
+  border: 1px solid #eff0f6;
+  background: #fff;
+  box-shadow: 0px 2px 12px 0px rgba(20, 20, 43, 0.08);
+  width: 200px;
+  padding: 20px;
+  height: 44px;
+}
+.hero5-input2 {
+  padding: 20px;
+  border-radius: 16px;
+  border: 1px solid #eff0f6;
+  background: #fff;
+  box-shadow: 0px 2px 12px 0px rgba(20, 20, 43, 0.08);
+  width: 200px;
+  height: 44px;
+}
+input {
+  outline: none;
+}
+.submoit {
+  border-radius: 14px;
+  background: #0075ff;
+  width: 169px;
+  height: 55px;
+  margin: 33px 0px 0px 55px;
+  border: none;
+}

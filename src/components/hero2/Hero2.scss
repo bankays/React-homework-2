@@ -1,0 +1,80 @@
+.Hero2 {
+  height: 800px;
+  //   background-color: aqua;
+}
+.hero2-p1 {
+  color: #211f54;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 57.984px;
+  padding-top: 100px;
+}
+.hero2-p2 {
+  color: #6e7191;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.006px;
+  max-width: 600px;
+  margin: 0px 0px 0px 300px;
+}
+.hero2-card1 {
+  width: 350px;
+  height: 349px;
+  //   background-color: #2334e7;
+}
+.hero2-img1 {
+  width: 200px;
+  margin: 0px 0px 0px 75px;
+}
+.hero2-img2 {
+  width: 220px;
+  margin: 0px 0px 0px 65px;
+}
+.hero2-p3 {
+  color: #211f54;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36.008px;
+}
+.hero2-p4 {
+  color: #6e7191;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.006px;
+}
+.hero2-obj1 {
+  display: flex;
+  gap: 70px;
+  margin-top: 60px;
+}
+.hero2-btn1 {
+  border-radius: 14px;
+  background: #0075ff;
+  width: 170px;
+  height: 50px;
+  border: none;
+}
+.hero2-btn2 {
+  border-radius: 14px;
+  background-color: transparent;
+  width: 170px;
+  height: 50px;
+  border: none;
+}
+.hero2-group-buttons1 {
+  margin: 60px 0px 0px 420px;
+  gap: 30px;
+  display: flex;
+}
